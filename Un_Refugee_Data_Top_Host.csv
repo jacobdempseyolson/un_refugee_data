@@ -1,0 +1,220 @@
+Year,Top_Country_Origin,Top_Country_Refugees,Top_Country_Asylum,Top_Asylum_Refugees,Asylum_Rank
+1951,Unknown,350000,"United States of America",350000,1
+1951,Unknown,350000,France,290000,2
+1951,Unknown,350000,Austria,282000,3
+1952,Unknown,500000,"United States of America",500000,1
+1952,Unknown,500000,France,280000,2
+1952,Unknown,500000,Germany,240000,3
+1953,Unknown,500000,"United States of America",500000,1
+1953,Unknown,500000,France,270000,2
+1953,Unknown,500000,Germany,228000,3
+1954,Unknown,500000,"United States of America",500000,1
+1954,Unknown,500000,France,263000,2
+1954,Unknown,500000,Germany,225000,3
+1955,Unknown,500000,"United States of America",500000,1
+1955,Unknown,500000,France,345415,2
+1955,Unknown,500000,Germany,219000,3
+1956,Unknown,500000,"United States of America",500000,1
+1956,Unknown,500000,France,363290,2
+1956,Unknown,500000,Germany,221000,3
+1957,Unknown,500000,"United States of America",500000,1
+1957,Unknown,500000,France,389480,2
+1957,Unknown,500000,Germany,217000,3
+1958,Unknown,500000,"United States of America",500000,1
+1958,Unknown,500000,France,381152,2
+1958,Unknown,500000,Germany,212000,3
+1959,Unknown,500000,"United States of America",500000,1
+1959,Unknown,500000,France,387201,2
+1959,Unknown,500000,Germany,205000,3
+1960,Unknown,500000,"United States of America",500000,1
+1960,Unknown,500000,France,245935,2
+1960,Unknown,500000,Germany,197000,3
+1961,Unknown,500000,"United States of America",500000,1
+1961,Unknown,500000,France,253375,2
+1961,Unknown,500000,"Dem. Rep. of the Congo",203000,3
+1962,Unknown,500000,"United States of America",500000,1
+1962,Unknown,500000,France,259740,2
+1962,Unknown,500000,"Dem. Rep. of the Congo",223000,3
+1963,Unknown,500000,"United States of America",500000,1
+1963,Unknown,500000,"Dem. Rep. of the Congo",237000,2
+1963,Unknown,500000,Germany,182000,3
+1964,China,1120000,"China, Hong Kong SAR",1120000,1
+1964,China,1120000,"United States of America",500000,2
+1964,China,1120000,"Dem. Rep. of the Congo",236000,3
+1965,China,1250000,"China, Hong Kong SAR",1251200,1
+1965,China,1250000,"United States of America",510000,2
+1965,China,1250000,"Dem. Rep. of the Congo",265000,3
+1966,China,1250040,"China, Hong Kong SAR",1250040,1
+1966,China,1250040,"United States of America",500000,2
+1966,China,1250040,"Dem. Rep. of the Congo",357100,3
+1967,Unknown,480000,"United States of America",480000,1
+1967,Unknown,480000,"Dem. Rep. of the Congo",434100,2
+1967,Unknown,480000,Unknown,180050,3
+1968,Unknown,498000,"United States of America",498000,1
+1968,Unknown,498000,"Dem. Rep. of the Congo",475400,2
+1968,Unknown,498000,France,176736,3
+1969,Unknown,500000,"United States of America",500000,1
+1969,Unknown,500000,"Dem. Rep. of the Congo",496300,2
+1969,Unknown,500000,Uganda,177260,3
+1970,Unknown,500000,"United States of America",500000,1
+1970,Unknown,500000,"Dem. Rep. of the Congo",489000,2
+1970,Unknown,500000,Uganda,179800,3
+1971,Unknown,828000,Unknown,828000,1
+1971,Unknown,828000,"United States of America",530000,2
+1971,Unknown,828000,"Dem. Rep. of the Congo",474250,3
+1972,Unknown,724720,Unknown,724720,1
+1972,Unknown,724720,"United States of America",530000,2
+1972,Unknown,724720,"Dem. Rep. of the Congo",495250,3
+1973,Unknown,578750,Unknown,578750,1
+1973,Unknown,578750,"United States of America",530000,2
+1973,Unknown,578750,"Dem. Rep. of the Congo",460050,3
+1974,Unknown,622490,Unknown,633490,1
+1974,Unknown,622490,"United States of America",530000,2
+1974,Unknown,622490,"Dem. Rep. of the Congo",503250,3
+1975,Unknown,749120,Unknown,754120,1
+1975,Unknown,749120,"United States of America",530000,2
+1975,Unknown,749120,"Dem. Rep. of the Congo",510000,3
+1976,Unknown,700000,Lebanon,700000,1
+1976,Unknown,700000,Unknown,603300,2
+1976,Unknown,700000,"Dem. Rep. of the Congo",515000,3
+1977,Unknown,700000,Lebanon,700000,1
+1977,Unknown,700000,"United States of America",684700,2
+1977,Unknown,700000,"Dem. Rep. of the Congo",530300,3
+1978,Unknown,734000,"United States of America",734000,1
+1978,Unknown,734000,"Dem. Rep. of the Congo",653000,2
+1978,Unknown,734000,Somalia,600000,3
+1979,Ethiopia,1175000,Somalia,1175190,1
+1979,Ethiopia,1175000,"United States of America",734000,2
+1979,Ethiopia,1175000,"Dem. Rep. of the Congo",710480,3
+1980,Ethiopia,2000000,Somalia,2000000,1
+1980,Ethiopia,2000000,Pakistan,1428230,2
+1980,Ethiopia,2000000,"Dem. Rep. of the Congo",611110,3
+1981,Afghanistan,2375330,Pakistan,2375330,1
+1981,Afghanistan,2375330,"Iran (Islamic Rep. of)",1565000,2
+1981,Afghanistan,2375330,Somalia,700000,3
+1982,Afghanistan,2877480,Pakistan,2877480,1
+1982,Afghanistan,2877480,"Iran (Islamic Rep. of)",1700060,2
+1982,Afghanistan,2877480,Somalia,700000,3
+1983,Afghanistan,2900000,Pakistan,2901360,1
+1983,Afghanistan,2900000,"Iran (Islamic Rep. of)",1900060,2
+1983,Afghanistan,2900000,Somalia,700000,3
+1984,Afghanistan,2500000,Pakistan,2500000,1
+1984,Afghanistan,2500000,"Iran (Islamic Rep. of)",2000000,2
+1984,Afghanistan,2500000,Sudan,971000,3
+1985,Afghanistan,2729910,Pakistan,2732440,1
+1985,Afghanistan,2729910,"Iran (Islamic Rep. of)",2300000,2
+1985,Afghanistan,2729910,Sudan,1164000,3
+1986,Afghanistan,2878100,Pakistan,2882100,1
+1986,Afghanistan,2878100,"Iran (Islamic Rep. of)",2590000,2
+1986,Afghanistan,2878100,Sudan,974200,3
+1987,Afghanistan,3156000,Pakistan,3159000,1
+1987,Afghanistan,3156000,"Iran (Islamic Rep. of)",2760000,2
+1987,Afghanistan,3156000,Somalia,840100,3
+1988,Afghanistan,3254393,Pakistan,3257577,1
+1988,Afghanistan,3254393,"Iran (Islamic Rep. of)",2850000,2
+1988,Afghanistan,3254393,Somalia,834000,3
+1989,Afghanistan,3272290,Pakistan,3275715,1
+1989,Afghanistan,3272290,"Iran (Islamic Rep. of)",2850000,2
+1989,Afghanistan,3272290,Malawi,822503,3
+1990,Afghanistan,3253000,"Iran (Islamic Rep. of)",4174401,1
+1990,Afghanistan,3253000,Pakistan,3255975,2
+1990,Afghanistan,3253000,Sudan,1031050,3
+1991,Afghanistan,3186616,"Iran (Islamic Rep. of)",4404995,1
+1991,Afghanistan,3186616,Pakistan,3099891,2
+1991,Afghanistan,3186616,Malawi,981812,3
+1992,Afghanistan,2900666,"Iran (Islamic Rep. of)",4150723,1
+1992,Afghanistan,2900666,Pakistan,1629218,2
+1992,Afghanistan,2900666,Germany,1236000,3
+1993,Afghanistan,1850000,"Iran (Islamic Rep. of)",2495038,1
+1993,Afghanistan,1850000,Pakistan,1479266,2
+1993,Afghanistan,1850000,Germany,1418000,3
+1994,Afghanistan,1623331,"Iran (Islamic Rep. of)",2236350,1
+1994,Afghanistan,1623331,"Dem. Rep. of the Congo",1724365,2
+1994,Afghanistan,1623331,Germany,1354600,3
+1995,Afghanistan,1429038,"Iran (Islamic Rep. of)",2071988,1
+1995,Afghanistan,1429038,"Dem. Rep. of the Congo",1433760,2
+1995,Afghanistan,1429038,Germany,1267900,3
+1996,Afghanistan,1414659,"Iran (Islamic Rep. of)",2030359,1
+1996,Afghanistan,1414659,Germany,1266000,2
+1996,Afghanistan,1414659,Pakistan,1202703,3
+1997,Afghanistan,1411759,"Iran (Islamic Rep. of)",1982553,1
+1997,Afghanistan,1411759,Pakistan,1202733,2
+1997,Afghanistan,1411759,Germany,1049000,3
+1998,Afghanistan,1400722,"Iran (Islamic Rep. of)",1931332,1
+1998,Afghanistan,1400722,Pakistan,1202462,2
+1998,Afghanistan,1400722,Germany,949200,3
+1999,Afghanistan,1325724,"Iran (Islamic Rep. of)",1835688,1
+1999,Afghanistan,1325724,Pakistan,1202015,2
+1999,Afghanistan,1325724,Germany,975500,3
+2000,Afghanistan,2000000,Pakistan,2001460,1
+2000,Afghanistan,2000000,"Iran (Islamic Rep. of)",1868000,2
+2000,Afghanistan,2000000,Germany,906000,3
+2001,Afghanistan,2197821,Pakistan,2198792,1
+2001,Afghanistan,2197821,"Iran (Islamic Rep. of)",1868000,2
+2001,Afghanistan,2197821,Germany,903000,3
+2002,Afghanistan,1226569,"Iran (Islamic Rep. of)",1306599,1
+2002,Afghanistan,1226569,Pakistan,1227429,2
+2002,Afghanistan,1226569,Germany,980001,3
+2003,Afghanistan,1123647,Pakistan,1124295,1
+2003,Afghanistan,1123647,"Iran (Islamic Rep. of)",984895,2
+2003,Afghanistan,1123647,Germany,960393,3
+2004,Afghanistan,1290408,Pakistan,1290980,1
+2004,Afghanistan,1290408,"Iran (Islamic Rep. of)",1045975,2
+2004,Afghanistan,1290408,Germany,876614,3
+2005,Afghanistan,1084208,Pakistan,1084689,1
+2005,Afghanistan,1084208,"Iran (Islamic Rep. of)",974301,2
+2005,Afghanistan,1084208,Germany,699996,3
+2006,Afghanistan,1043984,Pakistan,1044464,1
+2006,Afghanistan,1043984,"Iran (Islamic Rep. of)",968368,2
+2006,Afghanistan,1043984,"United States of America",843434,3
+2007,Afghanistan,2034416,Pakistan,2035025,1
+2007,Afghanistan,2034416,"Syrian Arab Rep.",1503767,2
+2007,Afghanistan,2034416,"Iran (Islamic Rep. of)",963544,3
+2008,Afghanistan,1780150,Pakistan,1780935,1
+2008,Afghanistan,1780150,"Syrian Arab Rep.",1105693,2
+2008,Afghanistan,1780150,"Iran (Islamic Rep. of)",980104,3
+2009,Afghanistan,1739935,Pakistan,1740709,1
+2009,Afghanistan,1739935,"Iran (Islamic Rep. of)",1070483,2
+2009,Afghanistan,1739935,"Syrian Arab Rep.",1054464,3
+2010,Afghanistan,1899842,Pakistan,1900619,1
+2010,Afghanistan,1899842,"Iran (Islamic Rep. of)",1073363,2
+2010,Afghanistan,1899842,"Syrian Arab Rep.",1005471,3
+2011,Afghanistan,1701945,Pakistan,1702698,1
+2011,Afghanistan,1701945,"Iran (Islamic Rep. of)",886465,2
+2011,Afghanistan,1701945,"Syrian Arab Rep.",755435,3
+2012,Afghanistan,1637740,Pakistan,1638452,1
+2012,Afghanistan,1637740,"Iran (Islamic Rep. of)",868239,2
+2012,Afghanistan,1637740,Germany,589735,3
+2013,Afghanistan,1615876,Pakistan,1616505,1
+2013,Afghanistan,1615876,"Iran (Islamic Rep. of)",857352,2
+2013,Afghanistan,1615876,Lebanon,856539,3
+2014,"Syrian Arab Rep.",1557899,Turkiye,1587365,1
+2014,"Syrian Arab Rep.",1557899,Pakistan,1505521,2
+2014,"Syrian Arab Rep.",1557899,Lebanon,1154029,3
+2015,"Syrian Arab Rep.",2503549,Turkiye,2541348,1
+2015,"Syrian Arab Rep.",2503549,Pakistan,1561157,2
+2015,"Syrian Arab Rep.",2503549,Lebanon,1070844,3
+2016,"Syrian Arab Rep.",2823987,Turkiye,2869419,1
+2016,"Syrian Arab Rep.",2823987,Pakistan,1352551,2
+2016,"Syrian Arab Rep.",2823987,Lebanon,1012959,3
+2017,"Syrian Arab Rep.",3424237,Turkiye,3480350,1
+2017,"Syrian Arab Rep.",3424237,Pakistan,1393132,2
+2017,"Syrian Arab Rep.",3424237,Uganda,1350495,3
+2018,"Syrian Arab Rep.",3622366,Turkiye,3681688,1
+2018,"Syrian Arab Rep.",3622366,Pakistan,1404008,2
+2018,"Syrian Arab Rep.",3622366,Uganda,1165646,3
+2019,"Syrian Arab Rep.",3576370,Turkiye,3579531,1
+2019,"Syrian Arab Rep.",3576370,Pakistan,1419596,2
+2019,"Syrian Arab Rep.",3576370,Uganda,1359458,3
+2020,"Syrian Arab Rep.",3641370,Turkiye,3652362,1
+2020,"Syrian Arab Rep.",3641370,Pakistan,1438940,2
+2020,"Syrian Arab Rep.",3641370,Uganda,1421133,3
+2021,"Syrian Arab Rep.",3737369,Turkiye,3759817,1
+2021,"Syrian Arab Rep.",3737369,Uganda,1529903,2
+2021,"Syrian Arab Rep.",3737369,Pakistan,1491070,3
+2022,"Syrian Arab Rep.",3535898,Turkiye,3568259,1
+2022,"Syrian Arab Rep.",3535898,"Iran (Islamic Rep. of)",3425091,2
+2022,"Syrian Arab Rep.",3535898,Germany,2075445,3
+2023,Afghanistan,3431680,"Iran (Islamic Rep. of)",3443522,1
+2023,Afghanistan,3431680,Turkiye,3368976,2
+2023,Afghanistan,3431680,Germany,2509506,3
