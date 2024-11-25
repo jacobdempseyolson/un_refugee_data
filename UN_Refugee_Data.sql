@@ -11,7 +11,6 @@ WITH AggregatedData AS (
     GROUP BY 
         Year, Country_of_origin, Country_of_asylum
 ),
--- Step 2: Rank top countries by total refugees originating and seeking asylum.
 TopCountryOrigin AS (
     SELECT
         Year,
